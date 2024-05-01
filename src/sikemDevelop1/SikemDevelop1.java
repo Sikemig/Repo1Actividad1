@@ -5,10 +5,10 @@ public class SikemDevelop1 {
 	public static void main(String[] args) {
 		nombreDevelop1();
 		
-		System.out.println("Comidas favoritas del develop2");
-		System.out.println("Sushi");
-		System.out.println("Pizza");
-		System.out.println("Pulpo a la Gallega");
+		System.out.println("Mis comidas favoritas son:");
+		System.out.println("Tortilla de patata");
+		System.out.println("Cachopo y sidra");
+		System.out.println("Fabada asturiana");
 	}
 
 	public static void nombreDevelop1() {
